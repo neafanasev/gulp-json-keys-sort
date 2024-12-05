@@ -2,6 +2,8 @@
   "name": "gulp-json-keys-sort",
   "version": "1.0.0",
   "description": "Gulp plugin for sorting JS-based JSON-files",
+  "homepage": "https://github.com/neafanasev/gulp-json-keys-sort",
+  "repository": "https://github.com/neafanasev/gulp-json-keys-sort",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
